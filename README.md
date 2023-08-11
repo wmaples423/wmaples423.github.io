@@ -1,17 +1,9 @@
 Syntax highlighted code block
 
-# Header 1
+# This website will be used to host links to my projects
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
+- Oracle Data Dictionary
 
 **Bold** and _Italic_ and `Code` text
-
-Text that is not a quote
-
-> Text that is a quote
